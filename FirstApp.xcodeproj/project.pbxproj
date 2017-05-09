@@ -277,7 +277,7 @@
 				DEVELOPMENT_TEAM = SWS4RMNS4A;
 				INFOPLIST_FILE = FirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.mt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.sankara;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -290,7 +290,7 @@
 				DEVELOPMENT_TEAM = SWS4RMNS4A;
 				INFOPLIST_FILE = FirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.mt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.sankara;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
