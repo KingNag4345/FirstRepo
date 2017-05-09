@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					6C4B93DD1EC1DA9A003592C0 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = SWS4RMNS4A;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -273,9 +274,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = SWS4RMNS4A;
 				INFOPLIST_FILE = FirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.FirstApp.FirstApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.TeleTango;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -285,9 +287,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = SWS4RMNS4A;
 				INFOPLIST_FILE = FirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.FirstApp.FirstApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.TeleTango;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -311,6 +314,7 @@
 				6C4B93F71EC1DA9B003592C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
