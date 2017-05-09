@@ -111,7 +111,7 @@
 					6C4B93DD1EC1DA9A003592C0 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = SWS4RMNS4A;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -274,11 +274,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Muralidhar K Sridhar (4459SZAGDE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Muralidhar K Sridhar (4459SZAGDE)";
 				DEVELOPMENT_TEAM = SWS4RMNS4A;
 				INFOPLIST_FILE = FirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.sankara;
+				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.justlocal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e5153522-dddd-41b8-9d79-0a3f4359057b";
+				PROVISIONING_PROFILE_SPECIFIER = JustLocalConsumer_Development;
 			};
 			name = Debug;
 		};
@@ -287,11 +291,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Muralidhar K Sridhar (4459SZAGDE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Muralidhar K Sridhar (4459SZAGDE)";
 				DEVELOPMENT_TEAM = SWS4RMNS4A;
 				INFOPLIST_FILE = FirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.sankara;
+				PRODUCT_BUNDLE_IDENTIFIER = com.apptarix.justlocal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e5153522-dddd-41b8-9d79-0a3f4359057b";
+				PROVISIONING_PROFILE_SPECIFIER = JustLocalConsumer_Development;
 			};
 			name = Release;
 		};
