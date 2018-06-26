@@ -1,0 +1,11 @@
+framework module TeletangoPlayer {
+  umbrella header "TeletangoPlayer.h"
+
+  export *
+  module * { export * }
+}
+
+module TeletangoPlayer.Swift {
+    header "TeletangoPlayer-Swift.h"
+    requires objc
+}
