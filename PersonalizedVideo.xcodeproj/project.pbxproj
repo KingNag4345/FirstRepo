@@ -75,7 +75,6 @@
 		4E605A331FBAFFDA00DE3F3D /* Defaultland-x@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E605A321FBAFFDA00DE3F3D /* Defaultland-x@3x.png */; };
 		4E605A351FBAFFF500DE3F3D /* Defaultland-6plus@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E605A341FBAFFF500DE3F3D /* Defaultland-6plus@3x.png */; };
 		4E68DAAF201EF19E00FDB85F /* mobile_app_withaudio.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4E68DAAD201EF19D00FDB85F /* mobile_app_withaudio.mp4 */; };
-		4E86933C20E353520084B6A1 /* exportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4E86933B20E353520084B6A1 /* exportOptions.plist */; };
 		4E8E243B204BB8D500AF6C9D /* ConstraintMultiplierTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8E2417204BB8D500AF6C9D /* ConstraintMultiplierTarget.swift */; };
 		4E8E243C204BB8D500AF6C9D /* LayoutConstraintItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8E2418204BB8D500AF6C9D /* LayoutConstraintItem.swift */; };
 		4E8E243D204BB8D500AF6C9D /* ConstraintDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8E2419204BB8D500AF6C9D /* ConstraintDescription.swift */; };
@@ -202,7 +201,6 @@
 		4E605A321FBAFFDA00DE3F3D /* Defaultland-x@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Defaultland-x@3x.png"; sourceTree = "<group>"; };
 		4E605A341FBAFFF500DE3F3D /* Defaultland-6plus@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Defaultland-6plus@3x.png"; sourceTree = "<group>"; };
 		4E68DAAD201EF19D00FDB85F /* mobile_app_withaudio.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = mobile_app_withaudio.mp4; sourceTree = "<group>"; };
-		4E86933B20E353520084B6A1 /* exportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = exportOptions.plist; sourceTree = "<group>"; };
 		4E8E2417204BB8D500AF6C9D /* ConstraintMultiplierTarget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstraintMultiplierTarget.swift; sourceTree = "<group>"; };
 		4E8E2418204BB8D500AF6C9D /* LayoutConstraintItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutConstraintItem.swift; sourceTree = "<group>"; };
 		4E8E2419204BB8D500AF6C9D /* ConstraintDescription.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstraintDescription.swift; sourceTree = "<group>"; };
@@ -306,7 +304,6 @@
 		4E6059FD1FB6C94C00DE3F3D = {
 			isa = PBXGroup;
 			children = (
-				4E86933B20E353520084B6A1 /* exportOptions.plist */,
 				4E605A081FB6C94C00DE3F3D /* PersonalizedVideo */,
 				4E605A071FB6C94C00DE3F3D /* Products */,
 				4E605A211FB6D7F300DE3F3D /* Frameworks */,
@@ -531,7 +528,6 @@
 				4E5B25F120105B2100D711E3 /* ic_airplay.png in Resources */,
 				4E5B25FF20105B2100D711E3 /* ic-mute1@2x.png in Resources */,
 				4E5B25DF20105B2100D711E3 /* ic_slider_thumb@2x.png in Resources */,
-				4E86933C20E353520084B6A1 /* exportOptions.plist in Resources */,
 				4E5B260420105B2100D711E3 /* ic-mute3@3x.png in Resources */,
 				4E5B25F520105B2100D711E3 /* ic-mute3@2x.png in Resources */,
 				4E68DAAF201EF19E00FDB85F /* mobile_app_withaudio.mp4 in Resources */,
